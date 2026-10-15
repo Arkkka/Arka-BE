@@ -1,0 +1,1 @@
+ALTER TABLE "Participant" ADD COLUMN "image" VARCHAR(48000);

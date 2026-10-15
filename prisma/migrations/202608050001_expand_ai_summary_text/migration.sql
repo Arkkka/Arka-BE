@@ -1,0 +1,2 @@
+ALTER TABLE "TrAiSessionSummary"
+ALTER COLUMN "summaryText" TYPE VARCHAR(700);

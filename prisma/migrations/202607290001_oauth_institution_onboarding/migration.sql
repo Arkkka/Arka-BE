@@ -1,0 +1,2 @@
+ALTER TABLE "User"
+ALTER COLUMN "institutionId" DROP NOT NULL;
